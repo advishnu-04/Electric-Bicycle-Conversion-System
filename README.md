@@ -1,4 +1,4 @@
-# ⚡ Electric Bicycle Conversion System
+# Design and Implementation of a Regenerative Electric Bicycle Conversion System, Cost Analysis, and Environmental Impact Assessment
 
 > A conventional bicycle retrofitted into a smart electric vehicle with regenerative pedal charging, real-time telemetry display, and energy-efficient drive control.
 
