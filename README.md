@@ -1,6 +1,13 @@
-# Electric-Bicycle-Conversion-System
+# ⚡ Electric Bicycle Conversion System
 
 > A conventional bicycle retrofitted into a smart electric vehicle with regenerative pedal charging, real-time telemetry display, and energy-efficient drive control.
+
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Range](https://img.shields.io/badge/Range-50%20km-blue)
+![Charging](https://img.shields.io/badge/Charging-Regenerative%20%2B%20Grid-orange)
+![Domain](https://img.shields.io/badge/Domain-Green%20Mobility-teal)
+
+---
 
 ## Table of Contents
 
@@ -250,10 +257,11 @@ The demo video shows:
 
 ## Author
 
-Boni Adi Vishnu  
-B.Tech in Electronics and Communication Engineering, Raghu Engineering College.
-Email: adivishnu8977@gmail.com  
-LinkedIn: [linkedin.com/in/adivishnu(https://www.linkedin.com/in/adi-vishnu-boni-589894271/)  
+**[Your Name]**  
+B.Tech in [Your Department], [Your College Name]  
+Email: your.email@example.com  
+LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)  
+GitHub: [github.com/yourusername](https://github.com)
 
 ---
 
