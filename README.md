@@ -228,19 +228,6 @@ Secure the battery on the frame (down tube or rear rack). Use zip ties and a mou
 | `images/battery-mount.jpg` | Battery pack mounted on frame |
 | `images/controller-wiring.jpg` | PWM controller and wiring |
 
----
-
-## Demo Video
-
-> *(Add your demo video link here)*
-
-[![Demo Video](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://youtube.com/your-video-link)
-
-The demo video shows:
-- Key switch ignition sequence
-- Live throttle-to-motor response
-- LCD display updating speed and battery in real time
-- Pedal charging (voltmeter reading while pedalling)
 
 ---
 
@@ -257,11 +244,10 @@ The demo video shows:
 
 ## Author
 
-**[Your Name]**  
-B.Tech in [Your Department], [Your College Name]  
-Email: your.email@example.com  
-LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)  
-GitHub: [github.com/yourusername](https://github.com)
+Boni Adi Vishnu  
+B.Tech in Electronics and Communication Engineering, Raghu Engineering College
+Email: adivishnu8977@gmail.com 
+LinkedIn: [linkedin.com/in/adivishnu](https://www.linkedin.com/in/adi-vishnu-boni-589894271/)  
 
 ---
 
