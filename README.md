@@ -246,7 +246,9 @@ Secure the battery on the frame (down tube or rear rack). Use zip ties and a mou
 
 Boni Adi Vishnu  
 B.Tech in Electronics and Communication Engineering, Raghu Engineering College
+
 Email: adivishnu8977@gmail.com 
+
 LinkedIn: [linkedin.com/in/adivishnu](https://www.linkedin.com/in/adi-vishnu-boni-589894271/)  
 
 ---
